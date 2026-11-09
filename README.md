@@ -45,7 +45,7 @@ pip install -r scripts/requirements.txt
 把仓库放到你的 Agent Skills 目录即可，例如：
 
 ```bash
-git clone https://github.com/<your-name>/wps-latex-to-mathtype.git
+git clone https://github.com/AngelSongKun/wps-latex-to-mathtype.git
 cp -r wps-latex-to-mathtype ~/.codeartsdoer/skills/     # 或 ~/.claude/skills/
 ```
 
