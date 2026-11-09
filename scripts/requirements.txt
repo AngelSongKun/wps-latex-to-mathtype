@@ -1,0 +1,7 @@
+pywin32
+python-docx
+lxml
+comtypes
+# 可选依赖：
+# pymupdf + 本机 Word  → verify_output --word-pdf（显示层终检）
+# pymupdf + fonttools → 预览字节/字形取证

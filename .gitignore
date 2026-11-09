@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Office 临时/锁文件
+~$*.docx
+~$*.doc
+~$*.dotm
+~$*.xlsx
+*.tmp
+
+# 转换产物（不入库）
+*_converted.docx
+*_MathType.docx
+*.pdf
+*.png
+
+
+# 环境与密钥
+.env
+.env.*
+*.key
+*.pem
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
